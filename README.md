@@ -9,7 +9,8 @@
 - Node.js `v16.20.2`: For JavaScript programs
 - `gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0`: Compiler for C program
 
-1.  [Palindrome](./palindrome/main.c)
+1.  [Check for Palindrome](./palindrome/)
+
     Write a function that will take input from the user and check if it is palindrome, if the word is not palindrome then return it
     in the reverse order. For example "hello" is not a palindrome, it should return "olleh“
 
